@@ -41,7 +41,7 @@
 
 - Serveless: concept overlapping with PaaS: servers are still running the code but the tasks associated with infrastructure provisioning and management are invisible to the developer.
 
-![Cloud Models Example](./Images/iaas-paas-saas-expanded.png)
+![Cloud Models Example](./Images/iaas-paas-saas-expanded.png width="200")
 ![Cloud Models Example](./Images/shared-responsibility.png)
 
 # Cloud Deployment Models
