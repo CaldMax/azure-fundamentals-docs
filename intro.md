@@ -41,8 +41,8 @@
 
 - Serveless: concept overlapping with PaaS: servers are still running the code but the tasks associated with infrastructure provisioning and management are invisible to the developer.
 
-<img src="./Images/iaas-paas-saas-expanded.png" width="100">
-![Cloud Models Example](./Images/shared-responsibility.png)
+<img src="./Images/iaas-paas-saas-expanded.png" height="300">
+<img src="./Images/shared-responsibility.png" height="300">
 
 # Cloud Deployment Models
 - Private
@@ -64,7 +64,8 @@
 - All solutions and services are certified to run on Azure
 
 # Azure services
-![Azure Services](./Images/azure-services.png)
+<img src="./Images/azure-services.png" height="300">
+
 ## Commonly used categories
 - Compute
     - **Azure Virtual Machines**: Windows or Linux virtual machines (VMs) hosted in Azure.
