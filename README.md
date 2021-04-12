@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/Gattonius/azure-fundamenta
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Index URL
+
+Site published at [Gattonius Azure Fundamentals Docs](https://gattonius.github.io/azure-fundamentals-docs/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
