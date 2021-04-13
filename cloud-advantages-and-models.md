@@ -1,4 +1,4 @@
-# Advantages and Cloud Models
+# Cloud Advantages and Models
 
 ## Cloud Advantages
 - **High availability**
