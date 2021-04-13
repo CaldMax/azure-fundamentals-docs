@@ -16,7 +16,7 @@
         - Access control boundary: access-management policies applied at the subscription level so that separate subscriptions can be createde to reflect different organizational structures
     - Maximum number of Azure ExpressRoute circuits per subscription is 10
 
-<img src="./Images/billing-structure-overview-expanded.png" height="400">
+![Billing Structure](./Images/billing-structure-overview-expanded.png)
 
 - **Management groups**
     - Level of scope above subscriptions
