@@ -2,7 +2,7 @@
 
 ## Topics
 - [Basic Concepts](basic-concepts.md)
-- [Geograpghy](regions-and-zones.md)
+- [Geography](regions-and-zones.md)
 - [Cloud Advantages and Models](cloud-advantages-and-models.md)
 - [Azure Portal, Marketplace and Services](azure-portal-marketplace-and-services.md)
 - [Database and Analytics](database-and-analytics.md)

@@ -1,4 +1,4 @@
-# Cloud Basic Concepts
+# Basic Concepts
 
 ## Capital expenses vs. operating expenses
 - **Capital Expenditure (CapEx)**
