@@ -1,4 +1,4 @@
-# Gattonius Azure Fundamentals Notes
+# Azure Fundamentals Study Notes
 
 ## Topics
 - [Azure Fundamentals Concepts](fundamental-concepts.md)
