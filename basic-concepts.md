@@ -1,4 +1,6 @@
-# Capital expenses vs. operating expenses
+# Cloud Basic Concepts
+
+## Capital expenses vs. operating expenses
 - **Capital Expenditure (CapEx)**
     - is the up-front spending of money on physical infrastructure, and then deducting that up-front expense over time. The up-front cost from CapEx has a value that reduces over time.
     - requires significant up-front financial costs
@@ -8,7 +10,7 @@
     - consumption-based model like Cloud Services
     - has a direct impact on net profit, taxable income, and the associated expenses on the balance sheet
 
-# Subscriptions, management groups, and resources
+## Subscriptions, management groups, and resources
 - **Subscriptions**
     - Logical unit of Azure services that links to an Azure account, which is an identity in Azure Active Directory (Azure AD) or in a directory that Azure AD trusts.
     - Can be used to define boundaries around Azure products, services, and resources:
@@ -38,7 +40,7 @@
     - Resources are combined into resource groups, which act as a logical container into which Azure resources like web apps, databases, and storage accounts are deployed and managed.
     - **Can't be nested**
 
-# Azure Resource Manager (ARM)
+## Azure Resource Manager (ARM)
 - Deployment and management service for Azure
 - Management layer that enables you to create, update, and delete resources in your Azure account
 - Benefits:
