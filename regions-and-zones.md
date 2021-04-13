@@ -4,7 +4,7 @@
     - US DoD Central, US Gov Virginia, US Gov Iowa and more: These regions are physical and logical network-isolated instances of Azure for U.S. government agencies and partners. These datacenters are operated by screened U.S. personnel and include additional compliance certifications.
     - China East, China North, and more: These regions are available through a unique partnership between Microsoft and 21Vianet, whereby Microsoft doesn't directly maintain the datacenters.
 
-![Regions](./Images/regions-expanded.png)
+<img src="./Images/regions-expanded.png" height="400">
 
 # Availability Zones
 - Physically separate datacenters within an Azure region
@@ -12,7 +12,7 @@
 - Not every region has support for availability zones
 - Primarily for VMs, managed disks, load balancers, and SQL databases
 
-![Availabilty Zones](./Images/availability-zones-expanded.png)
+![Availabilty Zones](./Images/availability-zones-expanded.png height=)
 
 # Azure region pairs
 - Each Azure region is always paired with another region within the same geography (such as US, Europe, or Asia) at least 300 miles away
