@@ -24,7 +24,7 @@
 ## Azure Kubernetes Service (AKS)
 - Cluster management for VMs that run containerized services
 
-# Azure App Service
+## Azure App Service
 - Deployment and management integrated into the platform
 - Endpoints can be secured
 - Sites can be scaled quickly
@@ -34,7 +34,7 @@
     - API apps (REST-based web APIs with Swagger support for HTTP/HTTPS consumers)
     - Webjobs (run a program or script like an app that can be scheduled)
     - Mobile apps (back end for iOS and Android apps)
-    
+
  ## Azure Functions
  - Event-driven
  - Serverless compute service

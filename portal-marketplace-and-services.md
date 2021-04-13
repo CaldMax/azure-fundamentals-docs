@@ -1,4 +1,4 @@
-# Azure Portal, Marketplace and Services
+# Portal, Marketplace and Services
 
 ## Azure Portal
 - Web-based unified console alternative to command-line tools.
@@ -15,14 +15,6 @@
 ![Azure Services](./Images/azure-services.png)
 
 ### Commonly used categories
-- Compute
-    - **Azure Virtual Machines**: Windows or Linux virtual machines (VMs) hosted in Azure.
-    - **Azure Virtual Machine Scale Sets**: Scaling for Windows or Linux VMs hosted in Azure.
-    - **Azure Kubernetes Service**: Cluster management for VMs that run containerized services.
-    - **Azure Service Fabric**:	Distributed systems platform that runs in Azure or on-premises.
-    - **Azure Batch**: Managed service for parallel and high-performance computing applications.
-    - **Azure Container Instances**: Containerized apps run on Azure without provisioning servers or VMs.
-    - **Azure Functions**: An event-driven, serverless compute service.
 - Networking
     - **Azure Virtual Network**: Connects VMs to incoming virtual private network (VPN) connections.
     - **Azure Load Balancer**: Balances inbound and outbound connections to applications or service endpoints.
