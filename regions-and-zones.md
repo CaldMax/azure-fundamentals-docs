@@ -12,7 +12,7 @@
 - Not every region has support for availability zones
 - Primarily for VMs, managed disks, load balancers, and SQL databases
 
-![Availability Zones](./Images/availability-zones-expanded.png)
+![Availability Zones](./Images/availability-zones.png)
 
 # Azure region pairs
 - Each Azure region is always paired with another region within the same geography (such as US, Europe, or Asia) at least 300 miles away
