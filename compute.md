@@ -35,6 +35,6 @@
     - Webjobs (run a program or script like an app that can be scheduled)
     - Mobile apps (back end for iOS and Android apps)
 
- ## Azure Functions
- - Event-driven
- - Serverless compute service
+## Azure Functions
+- Event-driven
+- Serverless compute service
