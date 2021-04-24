@@ -16,3 +16,5 @@
   - [Management Tools](management-tools.md)
   - [Serverless](serverless.md)
   - [IoT](iot.md)
+- [Security](security.md)
+- [Identity, Governance and Compliance](identity-governance-compliance.md)

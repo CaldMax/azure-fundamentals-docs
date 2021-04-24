@@ -17,5 +17,3 @@
   - Azure Sphere micro controller unit (OS processing and sensors' signals)
   - customized Linux OS (can run vendor's software)
   - Azure Sphere Security Service (device security check)
-
-
