@@ -21,4 +21,4 @@
 - [Cloud strategy](cloud-strategy.md)
 - [Compliance, privacy and data](compliance-privacy-data.md)
 - [Cost management](cost-management.md)
-- [SLAs](SLAs.md)
+- [SLAs](slas.md)
