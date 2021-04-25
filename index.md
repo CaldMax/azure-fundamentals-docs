@@ -18,3 +18,7 @@
   - [IoT](iot.md)
 - [Security](security.md)
 - [Identity, Governance and Compliance](identity-governance-compliance.md)
+- [Cloud strategy](cloud-strategy.md)
+- [Compliance, privacy and data](compliance-privacy-data.md)
+- [Cost management](cost-management.md)
+- [SLAs](SLAs.md)
