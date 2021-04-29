@@ -4,7 +4,6 @@
 - for each service on Azure exists a SLA describing what guarantees you can expect
 - accessible at portal [SLAs](https://azure.microsoft.com/it-it/support/legal/sla/)
 - free products don't have SLA
-- 
 
 ## Relation SLA - downtime
 | SLA percentage | Downtime per week | Downtime per month | Downtime per year |
