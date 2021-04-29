@@ -35,7 +35,7 @@
 - Fully managed service
 - Caches frequently used and static data to reduce data and application latency.
 
-# Azure Database for MariaDB
+## Azure Database for MariaDB
 - Fully managed and scalable MariaDB relational database
 
 ## Azure Synapse Analytics
