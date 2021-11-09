@@ -5,4 +5,4 @@ Theme credits to [just the docs](https://github.com/pmarsceill/just-the-docs)
 
 ### Index URL
 
-Site published at [Gattonius PMP Examination Notes](https://caldmax.github.io/pmp-notes/)
+Site published at [Gattonius Azure Fundamentals Docs](https://gattonius.github.io/azure-fundamentals-docs/)
